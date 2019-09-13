@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1567705044 source:d:\usuario\desktop\estudio\github\clases_lab_prog_i_codeblocks\clase_05\utn.c
+	<stdio.h>
+	<stdlib.h>
+	"utn.h"
+
+1567689671 d:\usuario\desktop\estudio\github\clases_lab_prog_i_codeblocks\clase_05\utn.h
+

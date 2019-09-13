@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1568209343 source:d:\usuario\desktop\estudio\github\clases_lab_prog_i_codeblocks\imprimer_ordenar_arraysstrings\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1568220091 source:d:\usuario\desktop\estudio\github\clases_lab_prog_i_codeblocks\imprimer_ordenar_arraysstrings\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"utn.h"
+
+1568209143 d:\usuario\desktop\estudio\github\clases_lab_prog_i_codeblocks\imprimer_ordenar_arraysstrings\utn.h
+
